@@ -1,6 +1,6 @@
 👋 Hi, I’m Vetle
 --------
-- 🌱 I’m currently studying **computer engineering - system development** at [NTNU](https://www.ntnu.no/studier/bidata)
+- 🌱 I’m currently studying **computer engineering - system development** at [NTNU](https://www.ntnu.edu/studies/bidata/admission)
 - 📫 How to reach me: vetlerein@gmail.com 
 
 <!---
