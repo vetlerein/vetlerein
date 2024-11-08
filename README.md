@@ -1,7 +1,8 @@
 👋 Hi, I’m Vetle
 --------
 - 🌱 I’m currently studying **computer engineering - system development** at [NTNU](https://www.ntnu.edu/studies/bidata/admission)
-- 📫 How to reach me: vetlerein@gmail.com 
+- 📫 How to reach me: vetlerein@gmail.com
+  
 
 <!---
 vetlerein/vetlerein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
